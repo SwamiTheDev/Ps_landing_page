@@ -10,8 +10,8 @@ The PlayStation Version 4 Landing Page is a front-end project that captures the 
 - Interactive animations that bring the PlayStation experience to life.
 - A responsive layout for a seamless user experience on all devices.
 - Attractive and eye-catching design that pays homage to the PlayStation 4.
+![ps4_landingpage](https://github.com/SwamiTheDev/Ps_landing_page/assets/119602881/aee3593e-3822-4874-8102-f0724325a42d)
 
-![PlayStation Version 4 Landing Page](insert_image_url_here)
 
 ## Tech Stack
 
